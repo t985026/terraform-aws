@@ -1,3 +1,5 @@
+[![CI](https://github.com/t985026/terraform-aws/actions/workflows/ci.yaml/badge.svg)](https://github.com/t985026/terraform-aws/actions/workflows/ci.yaml)
+
 # Learning how to use Terraform with AWS
 Terraform is a powerful tool that can be used to create infrastructure on a variety of cloud platforms, including AWS, GCP, Azure, and K8S.
 
